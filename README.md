@@ -1,2 +1,2 @@
 # pe-project
- oil properties prediction
+ oil properties prediction with ANN
